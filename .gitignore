@@ -30,3 +30,7 @@ obj/
 _ReSharper*/
 [Tt]est[Rr]esult*
 *.ReSharper.user
+# Ignore compiles in working directory - Delete next 4 lines to push binaries
+[Bb]in
+[Dd]ebug*/
+*.exe
