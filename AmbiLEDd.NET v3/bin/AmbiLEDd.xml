@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<settings>
+  <minimized>true</minimized>
+  <Interval>1</Interval>
+  <ReduceLevel>32</ReduceLevel>
+  <AutoEnable>true</AutoEnable>
+  <ProcessName>mpc-hc|XBMC|ehshell|wmplayer|Avenue|Crysis|Crysis2</ProcessName>
+  <LeftScanBegin>0</LeftScanBegin>
+  <LeftScanEnd>20</LeftScanEnd>
+  <TopScanBegin>0</TopScanBegin>
+  <TopScanEnd>20</TopScanEnd>
+  <RightScanBegin>80</RightScanBegin>
+  <RightScanEnd>100</RightScanEnd>
+  <VertexProcessing>1</VertexProcessing>
+  <Display>1</Display>
+  <DisableDWM>true</DisableDWM>
+</settings>

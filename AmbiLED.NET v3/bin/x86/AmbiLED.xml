@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<settings>
+  <comport>COM3</comport>
+  <baudrate>9600</baudrate>
+  <CaptureEvery>false</CaptureEvery>
+  <CaptureCycles>0</CaptureCycles>
+  <color>10</color>
+  <minimized>true</minimized>
+  <mode>True-Cinema +Expansion</mode>
+  <controller>v1 v2</controller>
+  <showoutput>false</showoutput>
+  <expand>2</expand>
+  <maxmultiply>3</maxmultiply>
+  <ProgressiveThreshold>false</ProgressiveThreshold>
+  <QuantizeLevel>1</QuantizeLevel>
+  <DarknessThreshold>0</DarknessThreshold>
+  <RedLeft>255</RedLeft>
+  <RedTop>255</RedTop>
+  <RedRight>255</RedRight>
+  <GreenLeft>192</GreenLeft>
+  <GreenTop>192</GreenTop>
+  <GreenRight>192</GreenRight>
+  <BlueLeft>255</BlueLeft>
+  <BlueTop>255</BlueTop>
+  <BlueRight>255</BlueRight>
+  <RedLeftOnExit>0</RedLeftOnExit>
+  <RedTopOnExit>0</RedTopOnExit>
+  <RedRightOnExit>0</RedRightOnExit>
+  <GreenLeftOnExit>0</GreenLeftOnExit>
+  <GreenTopOnExit>0</GreenTopOnExit>
+  <GreenRightOnExit>0</GreenRightOnExit>
+  <BlueLeftOnExit>0</BlueLeftOnExit>
+  <BlueTopOnExit>0</BlueTopOnExit>
+  <BlueRightOnExit>0</BlueRightOnExit>
+  <LeftScanBegin>0</LeftScanBegin>
+  <LeftScanEnd>20</LeftScanEnd>
+  <TopScanBegin>15</TopScanBegin>
+  <TopScanEnd>22</TopScanEnd>
+  <RightScanBegin>80</RightScanBegin>
+  <RightScanEnd>100</RightScanEnd>
+  <Interval>8</Interval>
+  <Display>0</Display>
+  <AggressiveThreshold>64</AggressiveThreshold>
+  <MaxSmoothRadius>8</MaxSmoothRadius>
+  <MinSmoothRadius>8</MinSmoothRadius>
+  <DynamicSmoothRadius>false</DynamicSmoothRadius>
+  <DynamicControl>(HSL)HSB.Brightness</DynamicControl>
+  <SlideDelay>1</SlideDelay>
+  <DivideLevel>64</DivideLevel>
+  <OffsetLevel>1</OffsetLevel>
+  <AutoEnable>false</AutoEnable>
+  <ProcessName>mpc-hc|Crysis|Crysis2</ProcessName>
+  <enabled>false</enabled>
+  <RedLeftOnStart>255</RedLeftOnStart>
+  <RedTopOnStart>255</RedTopOnStart>
+  <RedRightOnStart>255</RedRightOnStart>
+  <GreenLeftOnStart>255</GreenLeftOnStart>
+  <GreenTopOnStart>255</GreenTopOnStart>
+  <GreenRightOnStart>255</GreenRightOnStart>
+  <BlueLeftOnStart>255</BlueLeftOnStart>
+  <BlueTopOnStart>255</BlueTopOnStart>
+  <BlueRightOnStart>255</BlueRightOnStart>
+  <GammaLevel>50</GammaLevel>
+  <GammaEvent>2</GammaEvent>
+  <DarknessLimit>0</DarknessLimit>
+  <DarknessLimitMethod>HSV</DarknessLimitMethod>
+</settings>
